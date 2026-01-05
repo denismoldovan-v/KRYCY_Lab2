@@ -1,0 +1,2 @@
+pip install -r requirements.txt
+python app.py analyze --pcap sample.pcap --out out --sigma rules
