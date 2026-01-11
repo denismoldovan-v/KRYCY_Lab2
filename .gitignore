@@ -1,0 +1,22 @@
+# venv
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# outputs / artifacts
+out/
+*.joblib
+
+# optional: if you generate logs
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

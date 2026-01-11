@@ -1,0 +1,1 @@
+Ze względu na ograniczoną liczbę flow uzyskanych z pojedynczych plików PCAP, dane treningowe zostały powielone w celu umożliwienia ewaluacji modelu (FPR/TPR). Rozwiązanie to ma charakter PoC.

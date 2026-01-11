@@ -1,8 +1,0 @@
-title: Simple HTTPS Large Flow
-id: 11111111-2222-3333-4444-555555555555
-description: Detect flows to 443 with large bytes (demo Sigma subset)
-detection:
-  selection:
-    destination.port: 443
-  condition: selection
-level: medium
